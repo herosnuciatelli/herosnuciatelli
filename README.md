@@ -1,5 +1,14 @@
 ### Seja Bem-vindo(a), eu sou o Heros Nuciatelli⚡
 
+##
+  
+  🌱 Jornada de Aprendizagem<br>
+  💻 Cultura do Código Limpo<br>
+  🎨 Design e Criatividade<br>
+  💪 Colaboração e Comunidade<br>
+  🚀 Desafios e Conquistas<br>
+  
+##
 <div style="display: inline-block"><br>
   <img align="center" alt="Heros-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Heros-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
