@@ -1,4 +1,4 @@
-### Seja Bem-vindo(a), eu sou o Heros Nuciatelli⚡
+### HEROS NUCIATELLI
 
 ##
 
