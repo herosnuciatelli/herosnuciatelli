@@ -10,5 +10,4 @@
   
 ##
 <div style="display: inline-block"><br>
- <div style="width: 40px; height: 20px; background-color: green;"
 </div>
