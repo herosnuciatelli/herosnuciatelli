@@ -1,13 +1,9 @@
 # Heros Nuciatelli
 
-  **“Programming is like solving a puzzle, where each line of code fitted together correctly brings a clearer and more efficient solution.”**
-  
-  🌱 Jornada de Aprendizagem<br>
-  💻 Cultura do Código Limpo<br>
-  🎨 Design e Criatividade<br>
-  💪 Colaboração e Comunidade<br>
-  🚀 Desafios e Conquistas<br>
-  
-##
-<div style="display: inline-block"><br>
-</div>
+[![Gmail Badge](![Static Badge](https://img.shields.io/badge/herosnuciatelli%40gmail.com?logoColor=green)](mailto:herosnuciatelli@gmail.com)
+
+Enthusiast of the best web development technologies.
+
+Passionate about learning and changing people's lives through technological solutions.
+
+"Like a rocket ascending towards the cosmos, programming propels humanity's journey, turning chaos into a burst of possibilities, where each line of code is a thrust towards progress."
