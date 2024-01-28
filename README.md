@@ -8,4 +8,4 @@ Passionate about learning and changing people's lives through technological solu
 
 "Like a rocket ascending towards the cosmos, programming propels humanity's journey, turning chaos into a burst of possibilities, where each line of code is a thrust towards progress."
 
-<img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"><img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/js/js-original.svg">
+<img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"><img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/js/javascript-original.svg">
