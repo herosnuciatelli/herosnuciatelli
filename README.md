@@ -10,7 +10,7 @@ Passionate about learning and changing people's lives through technological solu
 
 
 
-<img align="center" alt="TailwindCSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/master/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg">
+<img align="center" alt="TailwindCSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg">
 
 <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 
