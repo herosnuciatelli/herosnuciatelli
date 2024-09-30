@@ -1,6 +1,6 @@
 # Heros Nuciatelli
 
-[![Gmail Badge](https://img.shields.io/badge/herosnuciatelli%40gmail.com-maker?style=flat-square&logo=Gmail&logoColor=%23FFF&labelColor=%23023e8a&color=%23023e8a&link=mailto%3Aherosnuciatelli%40gmail.com)](mailto:herosnuciatelli@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/herosnuciatelli%40gmail.com-maker?style=flat-square&logo=Gmail&logoColor=%23FFF&labelColor=%23ff1957&color=%23ff1957&link=mailto%3Aherosnuciatelli%40gmail.com)](mailto:herosnuciatelli@gmail.com)
 
 Enthusiast of the best web development technologies.
 
