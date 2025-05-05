@@ -1,12 +1,15 @@
 # Heros Nuciatelli
 
-[![Gmail Badge](https://img.shields.io/badge/herosnuciatelli%40gmail.com-maker?style=flat-square&logo=Gmail&logoColor=%23FFF&labelColor=%23ff1957&color=%23ff1957&link=mailto%3Aherosnuciatelli%40gmail.com)](mailto:herosnuciatelli@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/herosnuciatelli%40gmail.com-maker?style=flat-square&logo=Gmail&logoColor=%23FFF&labelColor=%23000&color=%23000&link=mailto%3Aherosnuciatelli%40gmail.com)](mailto:herosnuciatelli@gmail.com)
 
-Enthusiast of the best software development technologies.
+Sou um profissional dedicado e capacitado na área de **Engenharia de Software**, com foco no **aprendizado contínuo** e na **entrega de soluções tecnológicas eficazes**.
 
-Passionate about learning and changing people's lives through technological solutions.
+Tenho facilidade para lidar com **desafios** e valorizo a importância de **fundamentos sólidos**, **técnicas bem aplicadas** e **decisões embasadas**.
 
-"Like a rocket ascending towards the cosmos, programming propels humanity's journey, turning chaos into a burst of possibilities, where each line of code is a thrust towards progress."
+Busco sempre compreender **o que** está sendo feito e **por que** está sendo feito, com o objetivo de alcançar **clareza**, **eficiência** e **propósito** em cada projeto.
+
+> *"Se não é certo, não o faça; se não é verdade, não o diga."*  
+> — **Marco Aurélio**
 
 
 
