@@ -2,7 +2,7 @@
 
 [![Gmail Badge](https://img.shields.io/badge/herosnuciatelli%40gmail.com-maker?style=flat-square&logo=Gmail&logoColor=%23FFF&labelColor=%23000&color=%23000&link=mailto%3Aherosnuciatelli%40gmail.com)](mailto:herosnuciatelli@gmail.com)
 
-Sou um profissional dedicado e capacitado na área de **Engenharia de Software**, com foco no **aprendizado contínuo** e na **entrega de soluções tecnológicas eficazes**.
+Foco no **aprendizado contínuo** e na **entrega de soluções tecnológicas eficazes**.
 
 Tenho facilidade para lidar com **desafios** e valorizo a importância de **fundamentos sólidos**, **técnicas bem aplicadas** e **decisões embasadas**.
 
